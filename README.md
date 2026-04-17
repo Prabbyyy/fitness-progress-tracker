@@ -20,13 +20,13 @@ This project analyzes fitness data to track progress over time and generate mean
 * NumPy
 * Matplotlib
 
----
+
 
 ## Dataset
 
 * Fitness tracking dataset containing workout logs
 * Includes parameters like reps, weights, and performance metrics
-* Inclded dataset: [fitness_log.csv](fitness_log.csv)
+* Included dataset: [fitness_log.csv](fitness_log.csv)
 
 
 
