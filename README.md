@@ -5,7 +5,7 @@
 This project analyzes fitness data to track progress over time and generate meaningful insights. It helps monitor improvements in strength, consistency, and overall performance using data visualization techniques.
 
 
-## 🧠 Features
+## Features
 
 * Track workout progress over time
 * Analyze strength and performance trends
@@ -26,7 +26,7 @@ This project analyzes fitness data to track progress over time and generate mean
 
 * Fitness tracking dataset containing workout logs
 * Includes parameters like reps, weights, and performance metrics
-* 📁 [Download Dataset](fitness_log.csv)
+* Inclded dataset: [fitness_log.csv](fitness_log.csv)
 
 
 
